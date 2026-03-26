@@ -4,7 +4,7 @@ Shows your Discord status as "Unity" while you're working in the Unity Editor. S
 
 ## Setup
 
-1. **Import the package** — Drop `EditorDiscordIntegration.unitypackage` in your project and import the content, or manually drop the `DiscordIntegration` folder into `Assets/Editor/`
+1. **Import the package** — Drop `EditorDiscordIntegration.unitypackage` in your project and import the content, or manually download, unzip, and drop the files into `Assets/Editor/`
 2. Go to [discord.com/developers/applications](https://discord.com/developers/applications) and create a new application
 3. Copy the **Application ID**
 4. In Unity, open **Window > Editor Discord Integration**
